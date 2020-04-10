@@ -1,0 +1,17 @@
+{
+  "name": "nuxt-vk-retargeting",
+  "version": "1.0.0",
+  "description": "Nuxt plugin for vk pixel retargeting",
+  "main": "index.js",
+  "author": "Daniil Gaponov <dgaponov@lenta.ru>",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "vk",
+    "rtrg",
+    "pixel"
+  ],
+  "repository": "https://github.com/dgaponov/nuxt-vk-retargeting"
+}
