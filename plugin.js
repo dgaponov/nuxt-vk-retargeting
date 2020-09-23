@@ -10,6 +10,6 @@ export default ({ app: { router } }) => {
     } else {
         (function (w, c) {
             (w[c] = w[c] || []).push(create)
-        })(window, 'vk_callbacks')
+        })(window, 'vkAsyncInitCallbacks')
     }
 }
